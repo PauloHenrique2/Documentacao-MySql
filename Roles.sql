@@ -1,5 +1,5 @@
 ## Definição Roles
-# Os roles são basicamente cargos que permitem ao usuários realizar ou não certas ações no banco de dados.alter
+# Os roles são basicamente cargos que permitem ao usuários realizar ou não certas ações no banco de dados.
 # As permissões e proibições são definidas através dos comandos GRANT e REVOKE.
 
 # Exemplo:
