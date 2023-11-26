@@ -17,7 +17,7 @@ INSERT INTO sacola (cor_bola, quantidade) VALUES ("Verde", 6);
 SELECT * FROM sacola;
 
 ## Definição Procedure: 
-# O Procedure tem a função de tornar uma consulta (SELECT) estática em uma consulta dinâmica e executar procedimentos, como o próprio nome já diz.
+# O Procedure tem a função de tornar uma consulta (SELECT) estática em uma consulta dinâmica que possa ser utilizada no futuro e executar procedimentos, como o próprio nome já diz.
 DELIMITER $$  # O Delimiter tem a função de modificar o delimitador padrão do MySql (;)
 
 # Procedure sem parâmetro
